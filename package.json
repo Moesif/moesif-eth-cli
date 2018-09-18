@@ -1,6 +1,6 @@
 {
   "name": "moesif-eth-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Moesif Ethereum CLI to upload Ethereum Smart Contract ABI to Moesif for deeper visbility into Web3 API analytics and monitoring. ",
   "main": "./lib/index.js",
   "scripts": {
