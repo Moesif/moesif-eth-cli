@@ -4,6 +4,7 @@ var path = require('path');
 var fs = require('fs');
 var jwtDecode = require('jwt-decode');
 var superagent = require('superagent');
+var packageJson = require('../package.json');
 var decodedToken = null;
 
 var argv = require('yargs')
@@ -17,7 +18,7 @@ var argv = require('yargs')
   .alias('d', 'dev')
   .nargs('f', 1)
   .nargs('t', 1)
-  .version('1.0.0')
+  .version(packageJson.version)
   .boolean('dev')
   .count('verbose')
   .alias('v', 'verbose')
