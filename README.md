@@ -52,4 +52,4 @@ You can make the token non-expiring.
 
 ## Overview of Ethereum Web3 DApp Support at Moesif
 
-[Please see this document for more details on how Moesif supports decentralized apps build on top of Ethereum Web3 and JSON-RPCs.](https://www.moesif.com/docs/platform/ethereum-web3/)
+[Please see this document for more details on how Moesif supports decentralized apps built on top of Ethereum Web3 and JSON-RPCs.](https://www.moesif.com/docs/platform/ethereum-web3/)
