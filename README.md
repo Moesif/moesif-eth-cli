@@ -8,7 +8,7 @@ This CLI uploads compiled contract artifacts from your Dapp to Moesif
 which enables automatic decoding of your captured DApp transactions.
 
 The decoded data allows you to query on the functions, methods, events and
-parameters in Moesif for Ethereum DApp analytics and debugging.
+parameters in [Moesif](https://www.moesif.com) for [Ethereum DApp analytics and debugging.](https://www.moesif.com/docs/platform/ethereum-web3/)
 
 ## Usage
 
@@ -49,3 +49,7 @@ Examples:
 Go to your Moesif account, upper right menu > Management API.
 Create a token that includes at least the scope `create:eth_abi`.
 You can make the token non-expiring.
+
+## Overview of Ethereum Web3 DApp Support at Moesif
+
+[Please see this document for more details on how Moesif supports decentralized apps build on top of Ethereum Web3 and JSON-RPCs.](https://www.moesif.com/docs/platform/ethereum-web3/)
